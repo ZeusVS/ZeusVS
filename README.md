@@ -1,8 +1,7 @@
 ### 👋 Hi, I'm Zino
 
 🧠 Self-taught programmer  
-👨‍⚕️ Currently working in a field unrelated to programming  
-🦀 Learning rust at the moment  
+👨‍⚕️ Currently working in a field unrelated to programming
 
 ---
 
